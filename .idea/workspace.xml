@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="42d1706f-e441-42c6-9027-6ec2abed6ad8" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1yDhbSQSzaRAicR3uOiafYPkCdv" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Card" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Card" />
+      <module name="demo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LuDeng" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LuDeng" />
+      <module name="demo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="demo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test2" />
+      <module name="demo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test3" />
+      <module name="demo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Test3" />
+        <item itemvalue="Application.Test2" />
+        <item itemvalue="Application.Card" />
+        <item itemvalue="Application.LuDeng" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="42d1706f-e441-42c6-9027-6ec2abed6ad8" name="Default Changelist" comment="" />
+      <created>1631792136282</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1631792136282</updated>
+      <workItem from="1631792140418" duration="109000" />
+      <workItem from="1631803693679" duration="3181000" />
+      <workItem from="1631843830019" duration="1200000" />
+      <workItem from="1631886385133" duration="3294000" />
+      <workItem from="1632028315623" duration="20190000" />
+      <workItem from="1632227999698" duration="6734000" />
+      <workItem from="1632291342299" duration="5361000" />
+      <workItem from="1632400015070" duration="598000" />
+      <workItem from="1632457968493" duration="599000" />
+      <workItem from="1633500713412" duration="240000" />
+      <workItem from="1633658722944" duration="1518000" />
+      <workItem from="1633692865184" duration="1379000" />
+      <workItem from="1633745193811" duration="1817000" />
+      <workItem from="1633917670233" duration="599000" />
+      <workItem from="1633937421208" duration="129000" />
+      <workItem from="1633937576821" duration="257000" />
+      <workItem from="1633937884516" duration="598000" />
+      <workItem from="1634023463727" duration="1196000" />
+      <workItem from="1634090672421" duration="1218000" />
+      <workItem from="1634177057596" duration="678000" />
+      <workItem from="1634722257614" duration="662000" />
+      <workItem from="1634782116666" duration="1214000" />
+      <workItem from="1634811794675" duration="2829000" />
+      <workItem from="1634825232936" duration="1324000" />
+      <workItem from="1635127274700" duration="1243000" />
+      <workItem from="1635215415643" duration="1196000" />
+      <workItem from="1635299887514" duration="598000" />
+      <workItem from="1635386456022" duration="1795000" />
+      <workItem from="1635472993842" duration="3713000" />
+      <workItem from="1635730668210" duration="783000" />
+      <workItem from="1635818374870" duration="1197000" />
+      <workItem from="1635855795644" duration="246000" />
+      <workItem from="1635904953815" duration="1198000" />
+      <workItem from="1635991575919" duration="777000" />
+      <workItem from="1636077521235" duration="1288000" />
+      <workItem from="1636336978253" duration="597000" />
+      <workItem from="1636424570285" duration="581000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
